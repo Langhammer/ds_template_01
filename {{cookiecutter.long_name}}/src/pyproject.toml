@@ -1,0 +1,11 @@
+[project]
+name = "{{cookiecutter.abbreviation}}"
+version = "0.1.0"
+description = "{{cookiecutter.description}}"
+authors = [
+    {name = "{{cookiecutter.authorname}}", email = "{{cookiecutter.authoremail}}"},
+]
+dependencies = []
+
+license = {text = ""}
+requires-python = ">=3.10"
